@@ -37,7 +37,7 @@ background-color:black; font-size:40px;}
  </ul>
  <h2> A table depicting important office holders in Google;</h2>
  
- <table border="1"; bgcolor="black">
+ <table border="1" bgcolor="black">
  <tr>
  <th> Founders:</th>
  <th> CEO:</th>
@@ -51,10 +51,6 @@ background-color:black; font-size:40px;}
  </table>
  
 <a href="www.google.com"> To know more about google, search here. ;)</a>
-
-
- 
-
 </body>
 
 </html>
