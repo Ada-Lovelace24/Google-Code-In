@@ -9,9 +9,7 @@ Disallow:/>
 <meta name="Description" content="GCI Task-2019">
 <meta name="Author" content="Ada_Lovelace">
 <meta name="Keywords" content="html,css,JBoss">
-<link rel="icon" 
-      type="image/png" 
-      href="
+
 <title>A Brief History of Google</title>
 <style type="text/css">
 h1{color:"white";font-size:80px }
@@ -39,7 +37,7 @@ background-color:black; font-size:40px;}
  </ul>
  <h2> A table depicting important office holders in Google;</h2>
  
- <table border="1">
+ <table border="1" bgcolor="black">
  <tr>
  <th> Founders:</th>
  <th> CEO:</th>
@@ -50,7 +48,7 @@ background-color:black; font-size:40px;}
  <td> Sundar Pichai</td>
  <td> Ruth Porat</td>
  </tr>
- </table></font>
+ </table>
  
 <a href="www.google.com"> To know more about google, search here. ;)</a>
 
