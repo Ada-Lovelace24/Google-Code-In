@@ -1,2 +1,2 @@
 User-agent:*
-Disallow:/GitHub.com/
+Disallow:/google.com/
